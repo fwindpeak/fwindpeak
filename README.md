@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Do not care about my name, randomly taken.
-
+Don't care about my name, it was taken randomly.
 
 
 **Try to be a fun guy.**
